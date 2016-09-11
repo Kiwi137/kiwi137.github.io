@@ -513,6 +513,9 @@ iframe {
 .footer .fa-heart {
   color: #fb866a;
 }
+.project_des {
+  height: 240px;
+}
 /* Extra small devices (phones, less than 768px) */
 @media (max-width: 767px) {
   .header {
@@ -532,6 +535,9 @@ iframe {
   }
   .project-image {
     margin-bottom: 15px;
+  }
+  .project_des {
+    height: 200px;
   }
 }
 /* Small devices (tablets, 768px and up) */
